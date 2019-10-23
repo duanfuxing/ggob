@@ -1,0 +1,11 @@
+{
+    "name": "ggob/first_test",
+    "description": "This is a Test",
+    "authors": [
+        {
+            "name": "uncle",
+            "email": "1243702438@qq.com"
+        }
+    ],
+    "require": {}
+}
